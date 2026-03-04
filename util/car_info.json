@@ -1,0 +1,419 @@
+{
+    "vehicles_info": [
+        {
+            "vehicle_id": 1,
+            "vehicle_model": "vehicle.mini.cooper_s_2021",
+            "position": {
+                "x": -48.5,
+                "y": -30,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": 90.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": 109,
+                "y": -20,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 2,
+            "vehicle_model": "vehicle.bh.crossbike",
+            "position": {
+                "x": -52,
+                "y": -30,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": 90.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -90,
+                "y": 65,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 3,
+            "vehicle_model": "vehicle.micro.microlino",
+            "position": {
+                "x": -45,
+                "y": -20,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": -90.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -110,
+                "y": 60,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 4,
+            "vehicle_model": "vehicle.ford.crown",
+            "position": {
+                "x": -41.5,
+                "y": 0,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": -90.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -110,
+                "y": 60,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 5,
+            "vehicle_model": "vehicle.kawasaki.ninja",
+            "position": {
+                "x": -45,
+                "y": 0,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": -90.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -110,
+                "y": 60,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 6,
+            "vehicle_model": "vehicle.dodge.charger_police",
+            "position": {
+                "x": -41.5,
+                "y": 50,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": -90.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -70,
+                "y": -65,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 7,
+            "vehicle_model": "vehicle.carlamotors.firetruck",
+            "position": {
+                "x": -45,
+                "y": 60,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": -90.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -70,
+                "y": -65,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 8,
+            "vehicle_model": "vehicle.dodge.charger_2020",
+            "position": {
+                "x": -45,
+                "y": 80,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": -90.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -70,
+                "y": -65,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 9,
+            "vehicle_model": "vehicle.tesla.cybertruck",
+            "position": {
+                "x": -41.5,
+                "y": 100,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": -90.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -41.5,
+                "y": -30,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 10,
+            "vehicle_model": "vehicle.nissan.micra",
+            "position": {
+                "x": 10,
+                "y": 13,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": -180.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -45,
+                "y": -30,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 11,
+            "vehicle_model": "vehicle.diamondback.century",
+            "position": {
+                "x": 20,
+                "y": 16.5,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": -180.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -90,
+                "y": 16.5,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 12,
+            "vehicle_model": "vehicle.ford.mustang",
+            "position": {
+                "x": 70,
+                "y": 16.5,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": -180.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -90,
+                "y": 16.5,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 13,
+            "vehicle_model": "vehicle.mercedes.coupe_2020",
+            "position": {
+                "x": 80,
+                "y": 13,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": -180.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -45,
+                "y": -30,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 14,
+            "vehicle_model": "vehicle.nissan.patrol_2021",
+            "position": {
+                "x": 80,
+                "y": 66.5,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": -180.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -45,
+                "y": -30,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 15,
+            "vehicle_model": "vehicle.harley-davidson.low_rider",
+            "position": {
+                "x": 60,
+                "y": 130,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": -180.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -45,
+                "y": -30,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 16,
+            "vehicle_model": "vehicle.volkswagen.t2_2021",
+            "position": {
+                "x": -70,
+                "y": 24.5,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": 0.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -45,
+                "y": -30,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 17,
+            "vehicle_model": "vehicle.jeep.wrangler_rubicon",
+            "position": {
+                "x": -80,
+                "y": 28,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": 0.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": 70,
+                "y": 28,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 100,
+            "vehicle_model": "vehicle.chevrolet.impala",
+            "position": {
+                "x": -25,
+                "y": 24.5,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": 0.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": 70,
+                "y": 24.5,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 101,
+            "vehicle_model": "vehicle.audi.tt",
+            "position": {
+                "x": -25,
+                "y": 28,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": 0.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": 70,
+                "y": 28,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 102,
+            "vehicle_model": "vehicle.nissan.patrol",
+            "position": {
+                "x": -30,
+                "y": -68.5,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": -180.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -70,
+                "y": -65,
+                "z": 0.6
+            }
+        },
+        {
+            "vehicle_id": 103,
+            "vehicle_model": "vehicle.carlamotors.carlacola",
+            "position": {
+                "x": -20,
+                "y": -65,
+                "z": 0.6
+            },
+            "orientation": {
+                "yaw": -180.0,
+                "pitch": 0.0,
+                "roll": 0.0
+            },
+            "destination": {
+                "x": -70,
+                "y": -65,
+                "z": 0.6
+            }
+        }
+    ],
+    "walkers_info": [
+        {
+            "walker_id": 1,
+            "walker_name": "walker.pedestrian.0021",
+            "position": {
+                "x": -61.06,
+                "y": 3.41,
+                "z": 1.1
+            },
+            "orientation": {
+                "yaw": -0.61,
+                "pitch": 0.0,
+                "roll": 0.0
+            }
+        }
+    ]
+}
